@@ -2,8 +2,7 @@
 
 # xRoll
 
-Detailed README for uploading the Java project (Eclipse --- legacy
-version, before Android Studio) to GitHub.
+Detailed README for uploading the Java project (NetBean).
 
 > **Note:** This README is written in English. I recommend using Java 8
 > to compile/run this project, because it uses
