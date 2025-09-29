@@ -254,6 +254,7 @@ MIT `LICENSE`
 
 ------------------------------------------------------------------------
 
-## Actor
-Created by      : Josemar Pedro.
-Compiled date   : 01/05/2019.
+## Author
+
+-   Created by      : Josemar Pedro.
+-   Compiled date   : 01/05/2019.
