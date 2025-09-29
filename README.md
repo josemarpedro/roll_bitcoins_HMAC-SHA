@@ -1,3 +1,5 @@
+![](https://komarev.com/ghpvc/?username=josemarpedro)
+
 <img src="app_example_if_offline.jpg" alt="Combo Screenshot" width="1024">
 
 # xRoll
